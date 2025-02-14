@@ -1,11 +1,12 @@
 <div align="center">
 <h1 align="center">Hello, i am <a href="https://linkedin.com/in/ssjeison">Ssjeisondev</a> 👋</h1>
 </div>
+### Freelance full-stack software developer
 <img src="https://i.imgur.com/jcZCXYU.jpeg">
 
 I'm a passionate software developer with a love for learning and sharing knowledge. I enjoy working on open-source projects and contributing to the developer community. Here are a few things about me:
 
-- 💻 I specialize in web development, particularly with JavaScript, TypeScript, and Python.
+- 💻 I specialize in web development, particularly with Java, JavaScript, TypeScript, and Python.
 - 🚀 I'm currently working on several open-source projects.
 - 🌱 I'm always looking to learn new technologies and improve my skills.
 - 📫 How to reach me: You can find me on [GitHub](https://github.com/Ssjeison) or [LinkedIn](https://linkedin.com/in/Ssjeison).
