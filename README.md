@@ -2,7 +2,7 @@
 <h1 align="center">Hello, i am <a href="https://linkedin.com/in/ssjeison">Ssjeisondev</a> 👋</h1>
 </div>
 
-### Full-stack software an web developer 
+### Full-stack software and web developer 
 
 <img src="https://i.imgur.com/u3eT1IW.png">
 
