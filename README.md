@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, i am <a href="https://linkedin.com/in/ssjeison">Ssjeisondev</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/VM5JMu4">
+<img src="https://i.imgur.com/jcZCXYU.jpeg">
 
 I'm a passionate software developer with a love for learning and sharing knowledge. I enjoy working on open-source projects and contributing to the developer community. Here are a few things about me:
 
