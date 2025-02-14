@@ -4,7 +4,7 @@
 
 ### Full-stack software an web developer 
 
-<img src="https://i.imgur.com/AwevSoQ.png">
+<img src="https://i.imgur.com/u3eT1IW.png">
 
 I'm a passionate software developer with a love for learning and sharing knowledge. I enjoy working on open-source projects and contributing to the developer community. Here are a few things about me:
 
